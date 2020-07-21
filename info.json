@@ -1,0 +1,19 @@
+{
+    "name": "Allison Johnson",
+    "github": "allison-johnson",
+    "email": "allison.johnson@generalassemb.ly",
+    "pets": "George Man the Cat",
+    "proficientLanguages": [
+        "English",
+        "Spanish",
+        "JavaScript",
+        "React",
+        "Ruby", 
+        "Python"
+    ],
+    "hobbies": [
+        "baking", 
+        "hiking",
+        "reading"
+    ]
+}
